@@ -1,55 +1,59 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ChaK722/Chak722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Chakwing Yeung ( •̀ᴗ•́ )و
 
-Here are some ideas to get you started:
+**Computational Mathematics @ University of Waterloo**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Chakwing Yeung
+I build numerical software, full-stack products, and playful developer tools.
 
-Computational Mathematics @ UWaterloo | C++ & Python
+[![Email](https://img.shields.io/badge/Email-Contact-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:yeungchakwing@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chakwing-yeung/)
+[![GitHub](https://img.shields.io/badge/GitHub-ChaK722-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ChaK722)
 
-Hi, I'm Chakwing. I'm currently studying at the University of Waterloo. My focus right now is on numerical computing, system-level C++, and building custom generative AI workflows. 
+</div>
 
-### What I'm working on
-* **CMath-Toolkit:** Writing a custom numerical calculation and matrix library from scratch using C++20.
-* **Hybrid AI Workflows:** Experimenting with ComfyUI and Stable Diffusion. I recently set up a distributed architecture to offload UNet denoising to RunPod while keeping VAE decoding local to save on compute costs and maintain privacy.
-* **Data Automation:** Building Python scrapers to bypass Cloudflare and parse complex wiki data into clean JSON formats.
-* **CS Projects:** Collaborated on "Suspicion," an object-oriented system-level C++ project built in a university Linux/SSH environment.
+## About me
 
-### Tech & Tools
-* **Languages:** C++, Python
-* **Infrastructure:** Git, Makefile, Linux, Cloud GPUs (RunPod)
-* **AI:** ComfyUI, Stable Diffusion (SDXL/1.5), Custom Nodes
+- Studying Computational Mathematics at the University of Waterloo
+- Interested in numerical computing, modern C++, full-stack product engineering, browser extensions, and generative AI workflows
+- I enjoy taking ideas from low-level implementation to polished, testable products
 
-📫 Reach me at: [Email](yeungchakwing@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chakwing-yeung/)
+## Featured projects
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [**CoopPilot**](https://github.com/ChaK722/CoopPilot) | A personal co-op and internship companion for job tracking, match analysis, cover letters, interview preparation, and analytics | Next.js, TypeScript, Supabase, Playwright |
+| [**WWW.RPG**](https://github.com/ChaK722/www-rpg) | Turns everyday web browsing into a bilingual RPG with quests, XP, encounters, achievements, and boss fights | Chrome MV3, JavaScript, Shadow DOM |
+| [**CMath-Toolkit**](https://github.com/ChaK722/CMath-Toolkit) | A C++20 matrix library with LU decomposition, linear-system solving, numerical Jacobians, and Newton–Raphson root finding | C++20, Make |
+| [**WMark**](https://github.com/ChaK722/WMark) | A desktop photo-watermarking tool with EXIF extraction, RAW decoding, auto-orientation, and customizable layouts | C++, Qt 6, LibRaw, OpenCV |
+
+## Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-20-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++20" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<details>
+<summary><strong>中文简介</strong></summary>
+<br />
+
+我是 Chakwing，现就读于滑铁卢大学计算数学专业。我喜欢把数学、系统开发与产品工程结合起来，关注数值计算、现代 C++、全栈应用、浏览器扩展和生成式 AI 工作流。
+
+近期项目包括面向求职流程的全栈应用 **CoopPilot**、把网页浏览游戏化的 Chrome 扩展 **WWW.RPG**，以及用 C++20 编写的矩阵与数值计算库 **CMath-Toolkit**。
+
+</details>
 
 ---
 
-# Chakwing Yeung
-
-滑铁卢大学 (UWaterloo) 计算数学 | C++ / Python
-
-你好，我是 Chakwing。我目前在滑铁卢大学读计算数学，平时主要写 C++ 和 Python，比较关注数值计算、系统级开发以及 AI 跑图工作流的底层逻辑。
-
-### 最近在做什么
-* **CMath-Toolkit:** 正在用 C++20 手写一个数值计算和矩阵运算的基础库。
-* **云端/本地混合 AI 架构:** 最近在折腾 ComfyUI 和 Stable Diffusion。搭了一个分布式工作流，把高负载的 UNet 计算丢给 RunPod，本地只保留 VAE 解码，主打一个节省云端算力成本同时保护本地数据。
-* **自动化爬虫:** 写了一些 Python 脚本，主要用来绕过 Cloudflare 防护抓取 Wiki 数据，清洗并提取成结构化的 JSON。
-* **课程项目:** 参与开发了基于 C++ 的 "Suspicion" 项目，主要涉及面向对象设计和严谨的内存管理实践。
-
-### 技术栈
-* **语言:** C++, Python
-* **工具与环境:** Git, Makefile, Linux/SSH, RunPod
-* **AI:** ComfyUI, Stable Diffusion (SDXL/1.5), 节点配置与优化
-
-📫 联系方式: [Email](yeungchakwing@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chakwing-yeung/)
+<p align="center">
+  Feel free to explore my projects or reach out through <a href="mailto:yeungchakwing@gmail.com">email</a> or <a href="https://www.linkedin.com/in/chakwing-yeung/">LinkedIn</a>.
+</p>
