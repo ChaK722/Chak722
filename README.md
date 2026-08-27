@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Chakwing Yeung 👋
+# Hi, I'm Chakwing Yeung ( •̀ᴗ•́ )و
 
 **Computational Mathematics @ University of Waterloo**
 
@@ -14,9 +14,9 @@ I build numerical software, full-stack products, and playful developer tools.
 
 ## About me
 
-- 🎓 Studying Computational Mathematics at the University of Waterloo
-- 🧠 Interested in numerical computing, modern C++, full-stack product engineering, browser extensions, and generative AI workflows
-- 🛠️ I enjoy taking ideas from low-level implementation to polished, testable products
+- Studying Computational Mathematics at the University of Waterloo
+- Interested in numerical computing, modern C++, full-stack product engineering, browser extensions, and generative AI workflows
+- I enjoy taking ideas from low-level implementation to polished, testable products
 
 ## Featured projects
 
